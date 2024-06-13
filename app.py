@@ -20,7 +20,7 @@ if build_histogram:  # al hacer clic en el botón
 build_scatter = st.checkbox('Construir diagrama de dispersion')
 if build_scatter:  # al hacer clic en el botón
     # escribir un mensaje
-    st.write('Creacion de un diagrama de dispersion para el conjunto de datos de anuncios de venta de coches, graficando la variacion del precio de los vehiculos con respecto al modelo')
+    st.write('Creación de un diagrama de dispersión para el conjunto de datos de anuncios de venta de coches, graficando la variación del precio de los vehiculos con respecto al modelo')
 
     # crear un histograma
     fig = px.scatter(car_data, x="model_year", y="price")
