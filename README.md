@@ -11,5 +11,3 @@ Esta aplicación web tiene la finalidad de visualizar datos de anuncios de venta
 
 1. Haz clic en el boton "Construir histograma" para generar y visualizar un histograma del kilometraje.
 2. Haz clic en el botón "Construir diagrama de dispersión" para generar y visualizar un diagrama de dispersión del precio en función del año del modelo.
-
-
